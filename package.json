@@ -1,0 +1,19 @@
+{
+  "name": "madnesstoday",
+  "version": "1.0.0",
+  "description": "A quick snapshot of today's Madness",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadnessLabs/MadnessToday.git"
+  },
+  "author": "Madness Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadnessLabs/MadnessToday/issues"
+  },
+  "homepage": "https://github.com/MadnessLabs/MadnessToday#readme"
+}
