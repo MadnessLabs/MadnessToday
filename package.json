@@ -1,5 +1,5 @@
 {
-  "name": "madnesstoday",
+  "name": "@madnesslabs/madnesstoday",
   "version": "1.0.0",
   "description": "A quick snapshot of today's Madness",
   "main": "dist/index.js",
